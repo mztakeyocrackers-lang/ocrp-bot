@@ -1,0 +1,15 @@
+{
+  "name": "ocrp-universal-bot",
+  "version": "1.0.0",
+  "description": "Official Chicago Roleplay multi-guild bot for patrol, arrest, promotion, demotion, and blacklist operations.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "deploy": "node deploy-commands.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14",
+    "dotenv": "^16"
+  }
+}
