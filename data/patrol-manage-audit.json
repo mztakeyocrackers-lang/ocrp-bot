@@ -1,0 +1,65 @@
+[
+  {
+    "id": "b725c6d7-0cb8-48ec-8cec-3527f037fffd",
+    "logId": "3c0bdc7f-fbd7-4e9a-8103-efdbd16b17a3",
+    "action": "delete",
+    "actorId": "786685311862046721",
+    "actorTag": "aurxora",
+    "actorMention": "<@786685311862046721>",
+    "timestamp": "2026-04-25T01:45:45.944Z",
+    "before": {
+      "id": "3c0bdc7f-fbd7-4e9a-8103-efdbd16b17a3",
+      "patrolLabel": "LT, iwanttoasterbath0 - PATROL #2",
+      "username": "iwanttoasterbath0",
+      "rankText": "LT",
+      "startTime": "20:10",
+      "endTime": "20:16",
+      "proofUrl": "https://discord.com/channels/1465136660533612798/1495995047395463198/1497056672215072848",
+      "notes": "Test",
+      "createdAt": "2026-04-25T01:17:12.945021+00:00"
+    },
+    "after": null
+  },
+  {
+    "id": "6a324451-8160-40d3-a317-d0fa7f1e1e5d",
+    "logId": "1422e234-9ddb-474d-b39a-065ba32ce58d",
+    "action": "delete",
+    "actorId": "786685311862046721",
+    "actorTag": "aurxora",
+    "actorMention": "<@786685311862046721>",
+    "timestamp": "2026-04-25T01:45:50.578Z",
+    "before": {
+      "id": "1422e234-9ddb-474d-b39a-065ba32ce58d",
+      "patrolLabel": "LT, iwanttoasterbath0 - PATROL #1",
+      "username": "iwanttoasterbath0",
+      "rankText": "LT",
+      "startTime": "19:40",
+      "endTime": "19:48",
+      "proofUrl": "https://discord.com/channels/1465136660533612798/1465136663461105701/1497378290682302595",
+      "notes": "N/A",
+      "createdAt": "2026-04-25T00:48:53.236994+00:00"
+    },
+    "after": null
+  },
+  {
+    "id": "69ffe3db-93de-4701-9b09-54cb7ffc6d31",
+    "logId": "9e555f02-abd7-4061-9fab-fda9199f4c9c",
+    "action": "delete",
+    "actorId": "786685311862046721",
+    "actorTag": "aurxora",
+    "actorMention": "<@786685311862046721>",
+    "timestamp": "2026-04-25T02:17:27.297Z",
+    "before": {
+      "id": "9e555f02-abd7-4061-9fab-fda9199f4c9c",
+      "patrolLabel": "LT, iwanttoasterbath0 - PATROL #1",
+      "username": "iwanttoasterbath0",
+      "rankText": "LT",
+      "startTime": "21:10",
+      "endTime": "21:15",
+      "proofUrl": "https://discord.com/channels/1465136660533612798/1495994778461143090/1496724497552773120",
+      "notes": "Test",
+      "createdAt": "2026-04-25T02:16:13.699977+00:00"
+    },
+    "after": null
+  }
+]

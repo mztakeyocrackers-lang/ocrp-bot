@@ -1,0 +1,152 @@
+[2026-04-25T04:31:41.073Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1497454990426636460"}
+[2026-04-25T04:31:41.420Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1497454990426636460","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=bfb410f4e33146cd9c5675698c308315a770c6e9491a40e78a8b4d96024ae7b6","transcriptMessageCount":4}
+[2026-04-25T04:31:41.546Z] sendTicketCloseLog:rich-failed
+{"logChannelId":"1467046746851901501","error":"Invalid Form Body\nallowed_mentions.users[1][SET_TYPE_ALREADY_CONTAINS_VALUE]: The set already contains this value"}
+[2026-04-25T04:31:41.677Z] closeTicket:log-failed
+{"error":"Invalid Form Body\nallowed_mentions.users[1][SET_TYPE_ALREADY_CONTAINS_VALUE]: The set already contains this value"}
+[2026-04-25T04:34:55.400Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1497455624907128874"}
+[2026-04-25T04:34:55.823Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1497455624907128874","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=f250c6b0def1422c8b35cc0c3a45efa585c9b77dad144e61abaccaed9b2a0407","transcriptMessageCount":4}
+[2026-04-25T04:34:56.071Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-25T04:36:52.826Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"1432574366884827205","closerId":"1432574366884827205","ticketChannelId":"1497456307333238804"}
+[2026-04-25T04:36:53.653Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"1432574366884827205","closerId":"1432574366884827205","ticketChannelId":"1497456307333238804","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=964c80be9d5e4f9da7d84948dc1d149e20d0bb7ea47a4f3293fc37992978f308","transcriptMessageCount":2}
+[2026-04-25T04:36:53.958Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-25T05:12:33.574Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1497465268279054346"}
+[2026-04-25T05:12:33.977Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1497465268279054346","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=2fd6f06617564373928baaf0823f358f738164dcdaaa4029b060a9f64a9fda69","transcriptMessageCount":4}
+[2026-04-25T05:12:34.159Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-25T17:59:41.164Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1497658305437368512"}
+[2026-04-25T17:59:41.659Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1497658305437368512","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=83baeed3acfd4995901ff0fa4b5c3a1805fdbd9fe24a47a7ab7b1bddd8fb51da","transcriptMessageCount":2}
+[2026-04-25T17:59:41.961Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-26T21:50:26.948Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498078730529149049"}
+[2026-04-26T21:50:27.558Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498078730529149049","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=31bc0299396546a9b2e3c247d57d91ef9260b0171279438abb20e6b01809a5b4","transcriptMessageCount":3}
+[2026-04-26T21:50:27.771Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-26T22:12:57.077Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498081405115301980"}
+[2026-04-26T22:12:57.701Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498081405115301980","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=8913fd5b949442c9bc60bb7ebfd132bc4d6fa9c36b444e2e90c208a3a49bf1ec","transcriptMessageCount":3}
+[2026-04-26T22:12:58.006Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-26T22:13:03.179Z] closeTicket:start
+{"ticketSystemId":"report","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498080249391611934"}
+[2026-04-26T22:13:03.588Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"(SAVE) Report","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498080249391611934","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=289335d97ff242d6a60203e5282d3410aab8f2c77dba4229b1e18ea8adfc67a4","transcriptMessageCount":3}
+[2026-04-26T22:13:03.808Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T01:25:53.658Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498132999676498000"}
+[2026-04-27T01:25:54.090Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498132999676498000","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=ced9f969a7444081a63eeffb332ea9d7e7e3cf0a5714494b960921853d1d2e26","transcriptMessageCount":8}
+[2026-04-27T01:25:54.392Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T02:37:52.796Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498151073301528790"}
+[2026-04-27T02:37:53.554Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498151073301528790","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=bf11e71936fd4dd4b13b88cbe1aca85b39da99100fb3400e80d89944b7e5c69a","transcriptMessageCount":12}
+[2026-04-27T02:37:53.862Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T03:35:11.354Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498162874177290306"}
+[2026-04-27T03:35:11.854Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498162874177290306","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=bda2018c63ca4ed99b0fe6806f0b548fb723876bc1c64681a74345d61d0981a5","transcriptMessageCount":5}
+[2026-04-27T03:35:12.096Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T03:37:05.414Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498165614315962542"}
+[2026-04-27T03:37:05.954Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498165614315962542","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=4bf0b1d2ef4f471586fb4ff0ca852fada1cd35aa6e3b4cc4935fd9b6469dae7f","transcriptMessageCount":8}
+[2026-04-27T03:37:06.206Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T03:39:18.689Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498166093926105109"}
+[2026-04-27T03:39:19.023Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498166093926105109","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=e541e9886d494d1dabafd1b3f5bf29f85484edec3e72468586f51a649b34fdcd","transcriptMessageCount":6}
+[2026-04-27T03:39:19.375Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T03:45:20.281Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498166645489926317"}
+[2026-04-27T03:45:20.710Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498166645489926317","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=b2f33a51f4894fe3b474797e283b88b9219040d5d8f54ff5a5cbe025438f4467","transcriptMessageCount":6}
+[2026-04-27T03:45:20.925Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T03:57:04.750Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"1432574366884827205","closerId":"786685311862046721","ticketChannelId":"1498169539467415553"}
+[2026-04-27T03:57:05.105Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"1432574366884827205","closerId":"786685311862046721","ticketChannelId":"1498169539467415553","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=4572fbc5f0464c55b8971820ccb72d1f3079efa0081143d69716393767c309f7","transcriptMessageCount":9}
+[2026-04-27T03:57:05.354Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T03:58:20.172Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"1432574366884827205","closerId":"786685311862046721","ticketChannelId":"1498171327800934601"}
+[2026-04-27T03:58:20.655Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"1432574366884827205","closerId":"786685311862046721","ticketChannelId":"1498171327800934601","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=61d3d8b64d154c9a84146330234a712f4fc3a7d3478e49cb9419013abdff9db8","transcriptMessageCount":9}
+[2026-04-27T03:58:20.852Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T03:59:52.875Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498171730827546745"}
+[2026-04-27T03:59:53.357Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498171730827546745","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=a66546281ac5429d8a51594d44bf6b1c58df11bfb59b4a34b0765ea60ebfeea6","transcriptMessageCount":6}
+[2026-04-27T03:59:53.633Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T04:15:54.205Z] closeTicket:start
+{"ticketSystemId":"report","ticketOwnerId":"1432574366884827205","closerId":"786685311862046721","ticketChannelId":"1498174600213827646"}
+[2026-04-27T04:15:54.652Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"(SAVE) Report","ownerId":"1432574366884827205","closerId":"786685311862046721","ticketChannelId":"1498174600213827646","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=f08eb854413a4e6faec079be9018cafcfe6a38d4bc30481696e321e32d22b0ca","transcriptMessageCount":6}
+[2026-04-27T04:15:55.211Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T04:16:21.118Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"1432574366884827205","closerId":"786685311862046721","ticketChannelId":"1498171825467818216"}
+[2026-04-27T04:16:21.707Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"1432574366884827205","closerId":"786685311862046721","ticketChannelId":"1498171825467818216","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=f75a23d4f49b42ee918c2155ff7b16191b31297af9824f84ba5a5120a0ba8d1e","transcriptMessageCount":6}
+[2026-04-27T04:16:21.883Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T04:29:01.747Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498178064558067803"}
+[2026-04-27T04:29:02.222Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498178064558067803","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=8f3aea64772f4b26bc2b321cb1dbbefe248080c2ecba4e2fbe3f9a708c933b38","transcriptMessageCount":6}
+[2026-04-27T04:29:02.404Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T04:33:13.165Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498179154040852521"}
+[2026-04-27T04:33:13.817Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498179154040852521","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=fb2a1459fb8e4e91833999efbb1ef795c87bc6ed2c7f4166b7376f814d979834","transcriptMessageCount":4}
+[2026-04-27T04:33:13.997Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T05:01:33.739Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498186776366547005"}
+[2026-04-27T05:01:34.430Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498186776366547005","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=eb2e6bd4f7a94a079000b09c227bb9b00310516ebbee463e8ba38412a7d81531","transcriptMessageCount":9}
+[2026-04-27T05:01:34.922Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T05:29:42.207Z] closeTicket:start
+{"ticketSystemId":"general","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498194343037505726"}
+[2026-04-27T05:29:42.627Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"General Support","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498194343037505726","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=a7599ee82a7e4ef59cb46be9b409e26d2ce206e0a32a401fb0ccd7dc4a2312e5","transcriptMessageCount":4}
+[2026-04-27T05:29:42.845Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T05:45:26.027Z] closeTicket:start
+{"ticketSystemId":"ia","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498197257776926762"}
+[2026-04-27T05:45:26.464Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"IA Statement","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498197257776926762","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=7cb54712166f47cfb390ac1dd7a9a84de957dacd3cd74b9999447f600312fe84","transcriptMessageCount":1}
+[2026-04-27T05:45:26.868Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}
+[2026-04-27T05:47:25.474Z] closeTicket:start
+{"ticketSystemId":"ia","ticketOwnerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498198839323000832"}
+[2026-04-27T05:47:25.884Z] sendTicketCloseLog:start
+{"requestedLogChannelId":"1467046746851901501","fallbackLogChannelId":"1467046746851901501","ticketTypeLabel":"IA Statement","ownerId":"786685311862046721","closerId":"786685311862046721","ticketChannelId":"1498198839323000832","transcriptUrl":"https://save-stuff.vercel.app/transcript.html?t=863be6e346e54a278fc2b8c17e06572795dbb658967041a482378cee78341595","transcriptMessageCount":1}
+[2026-04-27T05:47:26.080Z] sendTicketCloseLog:rich-success
+{"logChannelId":"1467046746851901501"}

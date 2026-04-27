@@ -1,0 +1,575 @@
+{
+  "entries": [
+    {
+      "threadId": "1498078730529149049",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "786685311862046721",
+      "ticketId": "164702a3",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661187924105"
+      ],
+      "createdAt": "2026-04-26T21:50:02.682Z",
+      "closedAt": "2026-04-26T21:50:28.267Z"
+    },
+    {
+      "threadId": "1498081405115301980",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "786685311862046721",
+      "ticketId": "d8a86cb7",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661187924105"
+      ],
+      "createdAt": "2026-04-26T22:00:41.604Z",
+      "closedAt": "2026-04-26T22:12:58.577Z"
+    },
+    {
+      "threadId": "1498080249391611934",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "report",
+      "ownerId": "786685311862046721",
+      "ticketId": "7cd7f649",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661187924105"
+      ],
+      "createdAt": "2026-04-26T21:56:04.874Z",
+      "closedAt": "2026-04-26T22:13:04.135Z"
+    },
+    {
+      "threadId": "1498132999676498000",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "786685311862046721",
+      "ticketId": "cd71f8d7",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661187924105"
+      ],
+      "createdAt": "2026-04-27T01:25:43.787Z",
+      "closedAt": "2026-04-27T01:25:55.004Z"
+    },
+    {
+      "threadId": "1498151073301528790",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "786685311862046721",
+      "ticketId": "38e6ba3a",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661187924105"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T02:37:29.677Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "786685311862046721",
+          "memberName": "O-300 | iwanttoasterbath0",
+          "memberTag": "aurxora",
+          "createdAt": "2026-04-27T02:37:30.677Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "1297702098263343137",
+          "memberName": "O301 | F350Q",
+          "memberTag": "350qf",
+          "createdAt": "2026-04-27T02:37:30.679Z"
+        },
+        {
+          "type": "role_access",
+          "createdAt": "2026-04-27T02:37:33.677Z"
+        }
+      ],
+      "createdAt": "2026-04-27T02:37:31.001Z",
+      "closedAt": "2026-04-27T02:37:54.458Z"
+    },
+    {
+      "threadId": "1498162874177290306",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "786685311862046721",
+      "ticketId": "f03de098",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661045448818"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T03:24:23.187Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "786685311862046721",
+          "memberName": "O-300 | iwanttoasterbath0",
+          "memberTag": "aurxora",
+          "createdAt": "2026-04-27T03:24:24.187Z"
+        },
+        {
+          "type": "role_access",
+          "createdAt": "2026-04-27T03:24:27.187Z"
+        }
+      ],
+      "createdAt": "2026-04-27T03:24:24.044Z",
+      "closedAt": "2026-04-27T03:35:12.730Z"
+    },
+    {
+      "threadId": "1498165614315962542",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "786685311862046721",
+      "ticketId": "5d2c683b",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661045448818"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T03:35:16.469Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "786685311862046721",
+          "memberName": "O-300 | iwanttoasterbath0",
+          "memberTag": "aurxora",
+          "createdAt": "2026-04-27T03:35:17.469Z"
+        },
+        {
+          "type": "role_access",
+          "createdAt": "2026-04-27T03:35:25.827Z"
+        }
+      ],
+      "intakeMessageId": null,
+      "pendingPanelType": null,
+      "pendingSystemId": null,
+      "createdAt": "2026-04-27T03:35:18.135Z",
+      "openedAt": "2026-04-27T03:35:26.138Z",
+      "closedAt": "2026-04-27T03:37:06.830Z"
+    },
+    {
+      "threadId": "1498166093926105109",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "786685311862046721",
+      "ticketId": "138d3988",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661045448818"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T03:37:10.855Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "786685311862046721",
+          "memberName": "O-300 | iwanttoasterbath0",
+          "memberTag": "aurxora",
+          "createdAt": "2026-04-27T03:37:11.855Z"
+        },
+        {
+          "type": "role_access",
+          "createdAt": "2026-04-27T03:37:17.090Z"
+        }
+      ],
+      "intakeMessageId": null,
+      "pendingPanelType": null,
+      "pendingSystemId": null,
+      "createdAt": "2026-04-27T03:37:11.892Z",
+      "openedAt": "2026-04-27T03:37:17.868Z",
+      "closedAt": "2026-04-27T03:39:19.880Z"
+    },
+    {
+      "threadId": "1498166645489926317",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "786685311862046721",
+      "ticketId": "5cfa017b",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661045448818"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T03:39:22.394Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "786685311862046721",
+          "memberName": "O-300 | iwanttoasterbath0",
+          "memberTag": "aurxora",
+          "createdAt": "2026-04-27T03:39:23.394Z"
+        },
+        {
+          "type": "role_access",
+          "createdAt": "2026-04-27T03:39:28.835Z"
+        }
+      ],
+      "intakeMessageId": null,
+      "pendingPanelType": null,
+      "pendingSystemId": null,
+      "createdAt": "2026-04-27T03:39:23.830Z",
+      "openedAt": "2026-04-27T03:39:29.414Z",
+      "closedAt": "2026-04-27T03:45:21.405Z"
+    },
+    {
+      "threadId": "1498169539467415553",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "1432574366884827205",
+      "ticketId": "56641618",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661045448818"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T03:50:52.337Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "786685311862046721",
+          "memberName": "O-300 | iwanttoasterbath0",
+          "memberTag": "aurxora",
+          "createdAt": "2026-04-27T03:50:53.338Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "1297702098263343137",
+          "memberName": "O301 | F350Q",
+          "memberTag": "350qf",
+          "createdAt": "2026-04-27T03:50:53.339Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "1432574366884827205",
+          "memberName": "aurxora_2",
+          "memberTag": "aurxora_2",
+          "createdAt": "2026-04-27T03:50:53.340Z"
+        }
+      ],
+      "intakeMessageId": null,
+      "pendingPanelType": null,
+      "pendingSystemId": null,
+      "createdAt": "2026-04-27T03:50:53.797Z",
+      "openedAt": "2026-04-27T03:56:52.447Z",
+      "closedAt": "2026-04-27T03:57:05.942Z"
+    },
+    {
+      "threadId": "1498171327800934601",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "1432574366884827205",
+      "ticketId": "e42fbf17",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661045448818"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T03:57:58.692Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "786685311862046721",
+          "memberName": "O-300 | iwanttoasterbath0",
+          "memberTag": "aurxora",
+          "createdAt": "2026-04-27T03:57:59.693Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "1297702098263343137",
+          "memberName": "O301 | F350Q",
+          "memberTag": "350qf",
+          "createdAt": "2026-04-27T03:57:59.694Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "1432574366884827205",
+          "memberName": "aurxora_2",
+          "memberTag": "aurxora_2",
+          "createdAt": "2026-04-27T03:57:59.695Z"
+        }
+      ],
+      "intakeMessageId": null,
+      "pendingPanelType": null,
+      "pendingSystemId": null,
+      "createdAt": "2026-04-27T03:57:59.876Z",
+      "openedAt": "2026-04-27T03:58:13.961Z",
+      "closedAt": "2026-04-27T03:58:21.829Z"
+    },
+    {
+      "threadId": "1498171730827546745",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "786685311862046721",
+      "ticketId": "47781ebd",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661045448818"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T03:59:34.826Z"
+        },
+        {
+          "type": "role_access",
+          "createdAt": "2026-04-27T03:59:35.826Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "786685311862046721",
+          "memberName": "O-300 | iwanttoasterbath0",
+          "memberTag": "aurxora",
+          "createdAt": "2026-04-27T03:59:35.828Z"
+        }
+      ],
+      "intakeMessageId": null,
+      "pendingPanelType": null,
+      "pendingSystemId": null,
+      "createdAt": "2026-04-27T03:59:35.478Z",
+      "openedAt": "2026-04-27T03:59:48.178Z",
+      "closedAt": "2026-04-27T03:59:54.357Z"
+    },
+    {
+      "threadId": "1498174600213827646",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "report",
+      "ownerId": "1432574366884827205",
+      "ticketId": "2e22515b",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661187924105"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T04:10:58.970Z"
+        },
+        {
+          "type": "role_access",
+          "createdAt": "2026-04-27T04:10:59.970Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "1432574366884827205",
+          "memberName": "aurxora_2",
+          "memberTag": "aurxora_2",
+          "createdAt": "2026-04-27T04:10:59.972Z"
+        }
+      ],
+      "intakeMessageId": null,
+      "pendingPanelType": null,
+      "pendingSystemId": null,
+      "createdAt": "2026-04-27T04:10:59.766Z",
+      "openedAt": "2026-04-27T04:11:07.142Z",
+      "closedAt": "2026-04-27T04:15:55.601Z"
+    },
+    {
+      "threadId": "1498171825467818216",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "1432574366884827205",
+      "ticketId": "b1bded75",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661045448818"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T03:59:57.414Z"
+        },
+        {
+          "type": "role_access",
+          "createdAt": "2026-04-27T03:59:58.414Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "1432574366884827205",
+          "memberName": "aurxora_2",
+          "memberTag": "aurxora_2",
+          "createdAt": "2026-04-27T03:59:58.416Z"
+        }
+      ],
+      "intakeMessageId": null,
+      "pendingPanelType": null,
+      "pendingSystemId": null,
+      "createdAt": "2026-04-27T03:59:58.005Z",
+      "openedAt": "2026-04-27T04:00:03.291Z",
+      "closedAt": "2026-04-27T04:16:22.288Z"
+    },
+    {
+      "threadId": "1498178064558067803",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "786685311862046721",
+      "ticketId": "3b1621e6",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661045448818"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T04:24:45.022Z"
+        },
+        {
+          "type": "role_access",
+          "createdAt": "2026-04-27T04:24:46.022Z"
+        },
+        {
+          "type": "member_added",
+          "memberId": "786685311862046721",
+          "memberName": "O-300 | iwanttoasterbath0",
+          "memberTag": "aurxora",
+          "createdAt": "2026-04-27T04:24:46.024Z"
+        }
+      ],
+      "intakeMessageId": null,
+      "pendingPanelType": null,
+      "pendingSystemId": null,
+      "createdAt": "2026-04-27T04:24:45.570Z",
+      "openedAt": "2026-04-27T04:28:56.791Z",
+      "closedAt": "2026-04-27T04:29:03.082Z"
+    },
+    {
+      "threadId": "1498179154040852521",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "786685311862046721",
+      "ticketId": "79599b0b",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661045448818"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T04:29:04.834Z"
+        },
+        {
+          "type": "role_access",
+          "createdAt": "2026-04-27T04:29:05.834Z"
+        }
+      ],
+      "intakeMessageId": null,
+      "pendingPanelType": null,
+      "pendingSystemId": null,
+      "createdAt": "2026-04-27T04:29:05.281Z",
+      "openedAt": "2026-04-27T04:33:01.445Z",
+      "closedAt": "2026-04-27T04:33:14.608Z"
+    },
+    {
+      "threadId": "1498186776366547005",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "786685311862046721",
+      "ticketId": "922a89be",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661045448818"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T04:59:22.194Z"
+        },
+        {
+          "type": "role_access",
+          "createdAt": "2026-04-27T04:59:23.194Z"
+        }
+      ],
+      "intakeMessageId": null,
+      "pendingPanelType": null,
+      "pendingSystemId": null,
+      "createdAt": "2026-04-27T04:59:22.619Z",
+      "openedAt": "2026-04-27T05:01:08.465Z",
+      "closedAt": "2026-04-27T05:01:35.548Z"
+    },
+    {
+      "threadId": "1498191896911024220",
+      "parentChannelId": "1465136662714519716",
+      "systemId": "custom-ia-statements-5c03ac",
+      "ownerId": "786685311862046721",
+      "ticketId": "df66c7e3",
+      "status": "open",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1467046746851901501"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T05:19:43.020Z"
+        },
+        {
+          "type": "role_access",
+          "createdAt": "2026-04-27T05:19:44.020Z"
+        }
+      ],
+      "intakeMessageId": null,
+      "pendingPanelType": null,
+      "pendingSystemId": null,
+      "createdAt": "2026-04-27T05:19:43.414Z",
+      "openedAt": "2026-04-27T05:19:56.266Z"
+    },
+    {
+      "threadId": "1498194343037505726",
+      "parentChannelId": "1465136665185095684",
+      "systemId": "general",
+      "ownerId": "786685311862046721",
+      "ticketId": "80c388a6",
+      "status": "closed",
+      "logChannelId": "1467046746851901501",
+      "supportRoleIds": [
+        "1465136661045448818"
+      ],
+      "transcriptPrelude": [
+        {
+          "type": "thread_created",
+          "createdAt": "2026-04-27T05:29:26.224Z"
+        },
+        {
+          "type": "role_access",
+          "createdAt": "2026-04-27T05:29:27.224Z"
+        }
+      ],
+      "intakeMessageId": null,
+      "pendingPanelType": null,
+      "pendingSystemId": null,
+      "createdAt": "2026-04-27T05:29:26.641Z",
+      "openedAt": "2026-04-27T05:29:32.839Z",
+      "closedAt": "2026-04-27T05:29:43.322Z"
+    }
+  ]
+}
